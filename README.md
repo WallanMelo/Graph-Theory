@@ -1,5 +1,6 @@
 ## Graph Theory
 This repository contains materials developed for the **Graph Theory** course.  
+
 The discipline focuses on the study of graphs as mathematical structures used to model relationships between objects, exploring both theoretical foundations and algorithmic applications.
 
 Topics covered include:
@@ -15,7 +16,7 @@ Topics covered include:
 - Topological sorting  
 
 
-Course taught by **Professor Dr. [Petrônio Cândido](https://github.com/petroniocandido)**.
+Course taught by **Professor [Dr. Petrônio Cândido](https://github.com/petroniocandido)**.
 
 ### Objective 
 This repository contains exercises, assignments, and projects developed for the **Graph Theory** course. The goal is to apply theoretical concepts of graph theory through practical implementations using Python, covering topics such as graph representations, traversals, weighted graphs, and real-world applications.

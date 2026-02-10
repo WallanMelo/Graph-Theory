@@ -1,4 +1,4 @@
-# TEORIA DOS GRAFOS
+# Graph Theory
 
 ## Objective 
 
